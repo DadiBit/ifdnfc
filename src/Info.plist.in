@@ -51,6 +51,7 @@
 		<string>0x054C</string>
 		<string>0x1FD3</string>
 		<string>0x054C</string>
+		<string>0x1A86</string>
 	</array>
 
 	<key>ifdProductID</key>
@@ -61,6 +62,7 @@
 		<string>0x0193</string>
 		<string>0x0608</string>
 		<string>0x02E1</string>
+		<string>0x7523</string>
 	</array>
 
 	<key>ifdFriendlyName</key>
@@ -71,6 +73,7 @@
 		<string>Sony PN531 Contactless Reader &amp; NFC</string>
 		<string>ASK LoGO Contactless Reader</string>
 		<string>Sony FeliCa S360 (PaSoRi) Contactless Reader &amp; NFC</string>
+		<string>QinHeng Electronics CH340 serial converter (PCR532) &amp; NFC</string>
 	</array>
 
 	<key>Copyright</key>
